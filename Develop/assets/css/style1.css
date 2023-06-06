@@ -13,6 +13,7 @@ body {
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background-color: #2a607c;
     color: #ffffff;
+
 }
 
 .header h1 {
@@ -26,23 +27,35 @@ body {
 }
 
 /* div --> to nav */
-.header nav {
+.header head {
     padding-top: 15px;
     margin-right: 20px;
     float: right;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    font-size: 20px;
+    font-size: 20px;   
+    
 }
 /* div ul --> to nav ul */
-.header head ul {
+.header ul {
     list-style-type: none;
-
+    text-align: right;
+    display: inline-flex;
+    
+    padding-top: 15px;
+    margin-right: 20px;
+    float: right;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 20px; 
+    /*  */
 }
 
 /* div ul li --> to nav ul li */
-.header head ul li {
+.header head ul  {
     display: inline-block;
     margin-left: 25px;
+    text-align: right;
+    list-style-type: none;
+
 }
 
 a {
