@@ -1,4 +1,4 @@
-# Code Refactor Starter Code
+## Challenge 1 Otabek
 
 # Website
 
@@ -35,6 +35,11 @@ This is a sample website for demonstrating semantic HTML and basic CSS styling. 
 1. Open the `index1.html` file in a web browser.
 2. Explore the different sections of the website to learn about the services offered by Horiseon.
 3. Navigate through the links in the navigation menu to jump to different sections of the page.
+
+## Contributions 
+
+1. Colaborated with classmembers 
+2. Received assistance from AskBCS Learning Assistant 
 
 ## Contributing
 
