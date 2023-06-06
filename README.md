@@ -6,11 +6,17 @@ This is a sample website for demonstrating semantic HTML and basic CSS styling. 
 
 ## Screenshots
 
-![Screenshot of My Application](assets/images/web-screenshot-1.png)
+1. Screenshot 1
 
-![Screenshot of My Application](assets/images/web-screenshot-2.png)
+![Screenshot 1 of My Application](https://file%2B.vscode-resource.vscode-cdn.net/Users/oi/Desktop/Challenge_1_Otabek/Develop/assets/images/web-screenshot-1.png?version%3D1686064004539)
 
-![Screenshot of My Application](assets/images/web-screenshot-3.png)
+2. Screenshot 2
+
+![Screenshot 2 of My Application](https://file%2B.vscode-resource.vscode-cdn.net/Users/oi/Desktop/Challenge_1_Otabek/Develop/assets/images/web-screenshot-2.png?version%3D1686064210146)
+
+3. Screenshot 3
+
+![Screenshot 3 of My Application](https://file%2B.vscode-resource.vscode-cdn.net/Users/oi/Desktop/Challenge_1_Otabek/Develop/assets/images/web-screenshot-3.png?version%3D1686064344926)
 
 ## Technologies Used
 
