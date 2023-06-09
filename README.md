@@ -32,7 +32,7 @@ Screenshot 3 of My Application
 
 ## Usage
 
-1. Open the `index1.html` file in a web browser.
+1. Open the `index.html` file in a web browser.
 2. Explore the different sections of the website to learn about the services offered by Horiseon.
 3. Navigate through the links in the navigation menu to jump to different sections of the page.
 
