@@ -1,4 +1,4 @@
-## Challenge 1 Otabek
+## Horiseon-Site
 
 # Website
 
@@ -25,8 +25,8 @@ Screenshot 3 of My Application
 
 ## Installation
 
-1. Clone the repository: `git clone git@github.com:Otabek0111/Challenge_1_Otabek.git
-2. Navigate to the project directory: `cd Challange_1_Otabek`
+1. Clone the repository: `git clone https://github.com/Otabek0111/Horiseon-Site.git
+2. Navigate to the project directory: `cd Horiseon-Site`
 3. To open code: code . will open the dirctory in VS code
 4. Open in default browser to see web site
 
