@@ -1,5 +1,9 @@
 ## Horiseon-Site
 
+# Deployment Link 
+
+https://otabek0111.github.io/Horiseon-Site/#search-engine-optimization 
+
 # Website
 
 This is a sample website for demonstrating semantic HTML and basic CSS styling. The purpose of this project is to showcase the use of proper HTML structure and CSS organization to create a visually appealing and accessible website.
