@@ -8,15 +8,15 @@ This is a sample website for demonstrating semantic HTML and basic CSS styling. 
 
 Screenshot 1 of My Application
 
-![](Develop/assets/images/web-screenshot-1.png)
+![](assets/images/web-screenshot-1.png)
 
 Screenshot 2 of My Application
 
-![](Develop/assets/images/web-screenshot-2.png)
+![](assets/images/web-screenshot-2.png)
 
 Screenshot 3 of My Application
 
-![](Develop/assets/images/web-screenshot-3.png)
+![](assets/images/web-screenshot-3.png)
 
 ## Technologies Used
 
