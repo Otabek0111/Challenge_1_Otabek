@@ -2,7 +2,9 @@
 
 # Deployment Link 
 
-[Horiseon-Site](https://otabek0111.github.io/HoriseonSite/)# Website
+[Horiseon Site](https://otabek0111.github.io/HoriseonSite/)
+
+# Website
 
 This is a sample website for demonstrating semantic HTML and basic CSS styling. The purpose of this project is to showcase the use of proper HTML structure and CSS organization to create a visually appealing and accessible website.
 
